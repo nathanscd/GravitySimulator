@@ -1,2 +1,2 @@
 all:
-	gcc -o GravitySimulator main.c -lm
+	gcc -o GravitySimulator Gravity.c -lm
